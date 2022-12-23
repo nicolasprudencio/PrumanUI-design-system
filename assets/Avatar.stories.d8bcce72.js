@@ -1,0 +1,2 @@
+import{A as t}from"./index.1a4fa0a7.js";import"./index.5c8f2b75.js";import"./iframe.37122002.js";import"./index.be781732.js";import"./jsx-runtime.c876500c.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/nicolasprudencio.png",alt:"Nicolas Prudencio"}},p={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,m as WithFallback,n as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.d8bcce72.js.map
